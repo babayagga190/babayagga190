@@ -5,7 +5,11 @@
 <div align="right">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUycmI2cXAwZjYxbmllcjd3c2Rjc3FpZWUzb204b3Q5YnhyaG5lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
+<div>
+     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 
+</div>
 ###
 
 <div align="left">
