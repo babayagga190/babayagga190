@@ -54,12 +54,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/babayagga190/babayagga190/output/snake.svg" alt="Snake animation" />
 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/babayagga190/count.svg?"  />
+  
 </div>
 
 ###
